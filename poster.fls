@@ -1,4 +1,4 @@
-PWD /Users/ben/Downloads/cognisense - umich
+PWD /Users/ben/Documents/GitHub/latex-poster-template
 INPUT /usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./poster.tex
 OUTPUT poster.log
@@ -362,6 +362,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT ./poster.out
+INPUT ./poster.out
+INPUT ./poster.out
 OUTPUT poster.out
 OUTPUT poster.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
@@ -373,6 +376,7 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/translator/translator-theorem
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT ./poster.nav
 INPUT ./SRC_Logo_Emblem-Name_CMYK.jpg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr7.tfm

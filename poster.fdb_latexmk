@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1724988502.20617 "poster.tex" "poster.pdf" "poster" 1724988512.7009 2
+["pdflatex"] 1725565612.13369 "poster.tex" "poster.pdf" "poster" 1725565621.92682 2
   "/Users/ben/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lato-bold.luc" 1724903187.57139 1525262 0d1dc993472f553cc8852c7c1c7aa069 ""
   "/Users/ben/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lato-bolditalic.luc" 1724903186.55463 1554217 39f05b469aa2cd86f00444f8f8b525f5 ""
   "/Users/ben/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lato-italic.luc" 1724903188.58413 1580286 b7e0641444610cd14c8d7c46d80f3cb7 ""
@@ -370,10 +370,10 @@
   "meowschematic.pdf" 1724898456 350797 87ba7c472382885709a401381fcf3ec4 ""
   "motherboard2.png" 1724982255.80817 27920970 00c701344cdaf9f92661d2f9f720325e ""
   "noise_compare2.png" 1724898466 148718 7ab8e843c15eeae1a1e5e44b091dd611 ""
-  "poster.aux" 1724988512.10062 595 0c4a8a6d3317b7b34d7da3e30267e179 "pdflatex"
-  "poster.nav" 1724988512.1025 307 9e520c26371a1250ff9fc1fe87f9c655 "pdflatex"
-  "poster.out" 1724988503.84961 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "poster.tex" 1724988487.75698 8778 b13618e4beff473a9ee64491642fc27d ""
+  "poster.aux" 1725565621.66465 595 0c4a8a6d3317b7b34d7da3e30267e179 "pdflatex"
+  "poster.nav" 1725565621.66537 307 9e520c26371a1250ff9fc1fe87f9c655 "pdflatex"
+  "poster.out" 1725565613.7111 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "poster.tex" 1725565610.5632 8493 f7b2d0e0b79b4b4035fa6d1287cd4dab ""
   "qrcode.png" 1724898466 77487 59802fefdedd00be3aa9a7057b1c5a0c ""
   (generated)
   "poster.aux"
